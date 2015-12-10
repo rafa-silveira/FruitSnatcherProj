@@ -1,0 +1,131 @@
+
+models.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 498
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+logoSnatcher
+  rotate: false
+  xy: 2, 400
+  size: 568, 96
+  orig: 622, 148
+  offset: 29, 30
+  index: -1
+howToPlay
+  rotate: false
+  xy: 2, 213
+  size: 447, 185
+  orig: 447, 185
+  offset: 0, 0
+  index: -1
+bfood1
+  rotate: false
+  xy: 804, 787
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+bfood4
+  rotate: false
+  xy: 2, 20
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+bfood5
+  rotate: false
+  xy: 804, 597
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+bfood2
+  rotate: false
+  xy: 195, 24
+  size: 188, 187
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+logoApple
+  rotate: false
+  xy: 451, 248
+  size: 119, 150
+  orig: 119, 150
+  offset: 0, 0
+  index: -1
+bfood3
+  rotate: false
+  xy: 572, 386
+  size: 103, 110
+  orig: 110, 110
+  offset: 4, 0
+  index: -1
+bfood0
+  rotate: false
+  xy: 572, 274
+  size: 102, 110
+  orig: 110, 110
+  offset: 3, 0
+  index: -1
+cfood
+  rotate: false
+  xy: 677, 389
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+food3
+  rotate: false
+  xy: 385, 93
+  size: 77, 118
+  orig: 128, 128
+  offset: 26, 5
+  index: -1
+food0
+  rotate: false
+  xy: 804, 495
+  size: 69, 100
+  orig: 128, 128
+  offset: 29, 14
+  index: -1
+food2
+  rotate: false
+  xy: 875, 508
+  size: 75, 87
+  orig: 128, 128
+  offset: 25, 20
+  index: -1
+food4
+  rotate: false
+  xy: 952, 521
+  size: 70, 74
+  orig: 128, 128
+  offset: 30, 27
+  index: -1
+lives
+  rotate: false
+  xy: 952, 447
+  size: 70, 72
+  orig: 128, 128
+  offset: 28, 28
+  index: -1
+food1
+  rotate: false
+  xy: 385, 2
+  size: 72, 89
+  orig: 128, 128
+  offset: 28, 20
+  index: -1
+food5
+  rotate: false
+  xy: 777, 408
+  size: 65, 85
+  orig: 128, 128
+  offset: 31, 21
+  index: -1
